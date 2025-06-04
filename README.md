@@ -8,7 +8,7 @@
 - **Sensor PIR** – Detecta movimentos baseados em calor corporal
 - **Buzzer** – Ativado quando uma presença indevida é detectada
 - Protoboard, jumpers e fonte de alimentação
-- **Wokwi** para desenvolvimento
+- **Wokwi e Arduino IDE** para desenvolvimento
 
 ## 🚨 Funcionalidades
 
