@@ -8,7 +8,7 @@
 - **Sensor PIR** – Detecta movimentos baseados em calor corporal
 - **Buzzer** – Ativado quando uma presença indevida é detectada
 - Protoboard, jumpers e fonte de alimentação
-- **IDE Arduino** para desenvolvimento
+- **Wokwi** para desenvolvimento
 
 ## 🚨 Funcionalidades
 
@@ -16,3 +16,19 @@
 - Disparo automático de alarme sonoro
 - Projeto modular e expansível
 - Base para futura integração com IoT, notificações remotas ou aplicativos móveis
+
+## 🔌 Esquema de Conexão
+
+PIR VCC -> 3.3V
+PIR GND -> GND
+PIR OUT -> GPIO 13
+
+Buzzer + -> GPIO 12
+Buzzer - -> GND
+
+## 🧪 Simulação Online
+
+Você pode visualizar e testar o projeto diretamente na simulação Wokwi:
+
+🔗 **Simular no Wokwi:**  
+[https://wokwi.com/projects/432836621079473153](https://wokwi.com/projects/432836621079473153)
